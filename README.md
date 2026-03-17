@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: PYNAM VINODH L</h3>
+<h3>Name: PYNAM VINODH </h3>
 <h3>Register Number: 212223240131</h3>
 
 
